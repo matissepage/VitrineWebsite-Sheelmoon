@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { MdFingerprint } from 'react-icons/md';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import './Navbar.css';
 import { IconContext } from 'react-icons/lib'
@@ -17,7 +16,6 @@ function Navbar() {
       <div className='navbar'>
         <div className='navbar-container container'>
           <Link to='/' className='navbar-logo' onClick={CloseMobileMenu}>
-            <MdFingerprint className='navbar-icon'/>
             Sheelmoon
           </Link>
           <div className='menu-icon' onClick={handleClick}>
