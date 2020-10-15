@@ -1,0 +1,4 @@
+@font-face {
+    font-family: 'MyFontt';
+    src: local('MyFont'), url(./font/sheelmoon_font.ttf) format('ttf');
+  }

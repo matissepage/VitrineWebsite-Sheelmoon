@@ -24,12 +24,12 @@ function Navbar() {
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className='nav-item'>
               <Link to='/' className='nav-links' onClick={CloseMobileMenu}>
-                Home
+                Acceuil
               </Link>
             </li>
             <li className='nav-item'>
-              <Link to='/info' className='nav-links' onClick={CloseMobileMenu}>
-                Qui sommes-nous ?
+              <Link to='/service' className='nav-links' onClick={CloseMobileMenu}>
+                Nos Services
               </Link>
             </li>
             <li className='nav-item'>
