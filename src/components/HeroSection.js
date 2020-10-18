@@ -6,8 +6,7 @@ function HeroSection() {
   return (
     <div className='hero-container'>
     <video src='/videos/video_nebula.mp4' autoPlay loop muted />
-      <h1>Sheelmoon</h1>
-      <p>Eclairer l'obscurité</p>
+      <img src='/images/logo.png'/>
     </div>
   );
 }
