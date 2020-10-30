@@ -41,7 +41,7 @@ function Pricing() {
                 <p>Pour vous propulsez le plus haut possible, Sheelmoon vous donne ses meilleurs astuce pour que votre profil attire le maximum d'audience. Dans un monde ou 51% de la population est actif sur les réseaux sociaux, il faut savoir se démarquer, Sheelmoon est la pour ça avec son analyse d'expert dans le marketing d'influence Sheelmoon </p>
               </div>
             </div>
-            <Link to='/sign-up' className='pricing__container-card'>
+            <div className='pricing__container-card'>
               <div className='pricing__container-cardInfo'>
                 <div className='icon'>
                   <AiOutlineFundProjectionScreen />
@@ -54,7 +54,7 @@ function Pricing() {
                   vous accompagne
                 </p>
               </div>
-            </Link>
+            </div>
           </div>
         </div>
       </div>

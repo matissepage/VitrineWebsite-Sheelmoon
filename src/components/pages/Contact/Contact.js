@@ -1,13 +1,13 @@
 import React from 'react';
 import '../../../App.css';
-import Listing from '../../Listing';
 import ContactSection from '../../ContactSection'
+import ContactListing from '../../ContactListing';
 
 function Service() {
   return (
     <>
       <ContactSection/>
-      <Listing />
+      <ContactListing />
     </>
   );
 }
