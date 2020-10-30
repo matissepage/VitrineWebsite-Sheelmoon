@@ -8,8 +8,8 @@ function Cards() {
     <IconContext.Provider value={{ color: '#000'}}>
       <div className='cards'>
         <h1>Bienvenue</h1>
-        <br></br>
-        <h1>Tu es influenceur et tu cherche une agence ?<br/>Tu cherches a booster ton instagram ou tes réseaux ?<br/>Tu cherche à créer un projet ou bien un évenement?</h1>
+        <br></br><br/>
+        <h1>Tu es influenceur et tu cherches une agence ?<br/><br/>Tu cherches à booster ton instagram ou tes réseaux ?<br/><br/>Tu cherches à créer un projet ou bien un évenement?</h1>
         <div className='cards__container'>
           <div className='cards__wrapper'>
             <ul className='cards__items'>
