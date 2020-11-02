@@ -28,14 +28,14 @@ function Navbar() {
               </Link>
             </li>
             <li className='nav-item'>
-              <Link to='/service' className='nav-links' onClick={CloseMobileMenu}>
+              <a href='/service' className='nav-links' onClick={CloseMobileMenu}>
                 Nos Services
-              </Link>
+              </a>
             </li>
             <li className='nav-item'>
-              <Link to='/contact' className='nav-links' onClick={CloseMobileMenu}>
+              <a href='/contact' className='nav-links' onClick={CloseMobileMenu}>
                 Nous contacter
-              </Link>
+              </a>
             </li>
           </ul>
         </div>
