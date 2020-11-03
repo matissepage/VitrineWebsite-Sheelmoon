@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy-production": "react-scripts build && scp -r ./build/* newuser@132.65.23.25:/home/matissepage/Sheelmoon"
+    "deploy-production": "react-scripts build && scp -r ./build/* matissepage@51.77.245.109:/home/matissepage/Sheelmoon"
   },
   "eslintConfig": {
     "extends": "react-app"
