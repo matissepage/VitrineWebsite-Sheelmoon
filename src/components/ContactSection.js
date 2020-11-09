@@ -1,6 +1,6 @@
 import React from 'react';
 import '../App.css';
-import './ServiceSection.css';
+import './ContactSection.css';
 
 function ServiceSection() {
   return (
