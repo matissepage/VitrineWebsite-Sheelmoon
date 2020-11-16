@@ -1,12 +1,9 @@
 import React from 'react';
-import { Button } from './Button';
 import './Listing.css';
 import { BsXDiamondFill } from 'react-icons/bs';
-import { GiCrystalize } from 'react-icons/gi';
 import { IoIosPeople } from 'react-icons/io';
 import { IconContext } from 'react-icons/lib';
 import { AiOutlineFundProjectionScreen } from 'react-icons/ai';
-import { Link } from 'react-router-dom';
 
 function Pricing() {
   return (

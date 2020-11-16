@@ -16,7 +16,7 @@ function Navbar() {
       <div className='navbar'>
         <div className='navbar-container container'>
           <Link to='/' className='navbar-logo' onClick={CloseMobileMenu}>
-            <img src='/images/logo_navbar3.png'/>
+            <img src='/images/logo_navbar3.png' alt="sheelmoon-logo"/>
           </Link>
           <div className='menu-icon' onClick={handleClick}>
             {click ? <FaTimes/> : <FaBars/>}

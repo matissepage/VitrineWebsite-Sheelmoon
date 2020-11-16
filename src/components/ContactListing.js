@@ -36,7 +36,7 @@ function Pricing() {
                   <ImMail4 />
                 </div>
                 <h1>Mail</h1>
-                <p>global.sheelmoon@gmail.com</p>
+                <p>contact@sheelmoon.com</p>
                 <br/>
               </div>
           </div>
