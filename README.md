@@ -1,3 +1,6 @@
+A reacts Project to create a Vitrine Website for the Sheelmoon Company. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
